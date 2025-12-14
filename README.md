@@ -15,8 +15,7 @@ The course focuses on the architectural and performance aspects of Relational Da
 ## Repository Content
 
 * **`Advanced_Databases_Solution.pdf`**: Full PDF solution containing the answers to the assignment questions.
-* **`docs/Advanced_Databases_Assignment.pdf`**: Original assignment instructions.
-* **`Advanced_Databases_Certificate.pdf`**: Certificate of course completion.
-
+* **`Advanced_Databases_Assignment.pdf`**: Original assignment instructions.
+* 
 ***
 *Course: Advanced Databases, Shenkar College, IE&M*
